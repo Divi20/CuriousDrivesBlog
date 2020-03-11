@@ -1,5 +1,23 @@
 # CuriousDrivesBlog
 <h1>My personal Blog website<h1>
+  <br>
+<li>Home Page with blog display</li>
+  <br>
+<img src="home.png">
+   <br>
+<li>Individual Blog Page</li>
+   <br>
+<img src="post.png">
+   <br>
+<li>Blog Compose Page</li>
+   <br>
+<img src="compose.png">
+   <br>
+<li>Data getting stored in mongodb</li>
+   <br>
+<img src="mongodb.png">
+   <br>
+ 
 <h2>Stack Used</h2>
 Front End: <b>HTML, CSS, EJS</b>
 <br>
